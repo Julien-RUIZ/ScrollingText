@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mymodule</name>
+	<displayName><![CDATA[mymodule]]></displayName>
+	<version><![CDATA[1.7.6]]></version>
+	<description><![CDATA[Le premier pour voir]]></description>
+	<author><![CDATA[Julien RUIZ]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

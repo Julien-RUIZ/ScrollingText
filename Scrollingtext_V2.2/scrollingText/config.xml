@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>scrollingText</name>
+	<displayName><![CDATA[Scrolling Text]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Création d\'un bandeau défilant. Celui-ci va permettre d\'afficher un message d\'erreur ou une annonce.]]></description>
+	<author><![CDATA[Julien RUIZ]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

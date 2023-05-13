@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>scrollingText</name>
+    <displayName><![CDATA[Texte d&eacute;filant]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[Cr&eacute;ation d&#039;un bandeau d&eacute;filant. Celui-ci va permettre d&#039;afficher un message d&#039;erreur, une annonce ou autre.]]></description>
+    <author><![CDATA[Julien RUIZ]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Vous voulez vraiment supprimer ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
